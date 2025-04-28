@@ -1,0 +1,13 @@
+name: vocab
+title: vocab
+username: rana2hin
+account: rana2hin
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14372333
+bundleId: 10023841
+url: https://rana2hin.shinyapps.io/vocab/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: word_list.xls|wwwrd.csv
